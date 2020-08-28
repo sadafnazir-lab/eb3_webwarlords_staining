@@ -45,7 +45,5 @@ Stained microbes will show prominent structures
 | **Sr.No** | **What Students will do?** | **What Simulator will do?** | **Purpose of the task** |
 | --- | --- | --- | --- |
 | 1. | The simulator gives a visual display of chemicals required in staining | Click on the &#39;simulation tab&#39; | Perform experiment |
-| --- | --- | --- | --- |
-| 2. |
- Stain microorganisms | Click on the chemicals step wise for staining process to commence | To stain the microbes on slide |
+| 2. | Stain microorganisms | Click on the chemicals step wise for staining process to commence | To stain the microbes on slide |
 | 3. | Differentiate between gram-positive and gram-negative bacteria | Click on microscope to analyse structures &#39; | To differentiate microbes |
