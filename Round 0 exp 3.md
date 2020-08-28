@@ -4,7 +4,6 @@
 | **Discipline** | **Food Technology** |
 | --- | --- |
 | **Lab** | **Food Microbiology (KFT 352)** |
-| --- | --- |
 | **Experiment** | **3. Simple and differential staining of microorganisms and their examination.** |
 
 **About the Lab(objective):**
