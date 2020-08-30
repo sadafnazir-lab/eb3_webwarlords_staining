@@ -1,4 +1,3 @@
-# webwarlords-exp-3
 # **Round 2**
 
 Experiment 3: **Simple and differential staining of microorganisms and their examination.**
