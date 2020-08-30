@@ -12,7 +12,7 @@ The microbiology lab is designed to study the microbes. The lab involves the bas
 
 **About the Experiment:**
 
-The experiment is designed to determine the stain the microbes to analyze their structure, identify/characterize their species/genus and predict their toxicity in contaminated foods.
+The experiment is designed to the stain the microbes so as to analyze their structure, identify/characterize their species/genus and predict their toxicity in contaminated foods.
 
 **Target Audience:**
 
