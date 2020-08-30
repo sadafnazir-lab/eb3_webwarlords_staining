@@ -8,19 +8,19 @@
 
 **About the Lab(objective):**
 
-The microbiology lab deals with the study of microbes. The lab involves learning the basic techniques of sterilizing media/glassware and growing microorganisms on specific media. Preparation of media and use of autoclave is studied. Samples are taken from various contaminated food. The growth of of microbes on media is later used to analyze the contamination of food.
+The microbiology lab is designed to study the microbes. The lab involves the basic techniques of sterilizing media/glassware and growing microorganisms on specific media. Preparation of media and use of autoclave is conducted to prepare pure cultures and analyse contaminated food. Samples are taken from various natural and processed food. The growth of of microbes on media is later used to analyze the contamination of food.
 
 **About the Experiment:**
 
-Staining the microbes to analyze their structure, identify/characterize their species/genus and predict their toxicity in contaminated foods.
+The experiment is designed to determine the stain the microbes to analyze their structure, identify/characterize their species/genus and predict their toxicity in contaminated foods.
 
 **Target Audience:**
 
-Students
+UG Students of Food Technology
 
 **Course Alignment:**
 
-Food Technology, Food Microbiology
+Food Technology Lab (KFT 352)
 
 **Universities Mapped:**
 
