@@ -19,10 +19,7 @@ The slides are smeared with samples and stained with respective dyes. Incubated 
 
 | **Sr. No** | **Learning Objective** | **Cognitive Level** |
 | --- | --- | --- |
-| 1. | User will be able to:Stain microorganisms
- | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
- |
-| --- | --- | --- |
+| 1. | User will be able to:Stain microorganisms | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
 | 2. | User will be able to:Study structure of microbes | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
 | 3. | User will be able to:
  Identify and differentiate between gram-positive and gram-negative bacteria | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) |
