@@ -1,4 +1,3 @@
-# webwarlords-exp-3
 # **Round 1**
 
 **Experiment Food Microbiology Lab**
