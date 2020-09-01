@@ -44,5 +44,5 @@ Step by step instructions are provided at each level in the simulator to make it
 | **Sr.No** | **What Students will do?** | **What Simulator will do?** | **Purpose of the task** |
 | --- | --- | --- | --- |
 | 1. | The simulator gives a visual display procedure required in staining | Click on the &#39;simulation tab&#39; | Perform experiment |
-| 2. | Stain microorganisms stepwise | Click on the chemicals step wise for staining process to commence | To stain the microbes on slide |
-| 3. | Differentiate between gram-positive and gram-negative bacteria | Click on microscope to analyse structures &#39; | To differentiate microbes |
+| 2. | Stain the smear of microorganisms stepwise | Click on the chemicals step wise for staining process to commence | To stain the microbes on slide |
+| 3. | Visually differentiate between gram-positive and gram-negative bacteria | Click on microscope to analyse structures &#39; | To differentiate microbes |
