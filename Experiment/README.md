@@ -1,7 +1,5 @@
 # **Round 3**
 
-**Lab Mannual**
-
 # **1.Aim**
 
 # **2.Theory**
