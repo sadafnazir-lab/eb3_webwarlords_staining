@@ -1,0 +1,47 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Simple and differential staining of microorganisms and their examination.",     
+			"Lab": "Food Microbiology",               
+			"Discipline": "Food Technology",				 
+			"Technology": "Staining"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Sadaf Nazir",         
+      "Institute": "I.E.T., Bundelkhand University, Jhansi",         
+      "InstituteAcronym": "IET"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Shivangi Agarwal",             
+      "Institute": "I.E.T., Bundelkhand University, Jhansi",         
+      "InstituteAcronym": "IET"   
+       },
+
+       {       
+			"Contributer": "Kunika Mahajan",              
+      "Institute": "I.E.T., Bundelkhand University, Jhansi",         
+      "InstituteAcronym": "IET"   
+       },
+       
+       {       
+			"Contributer": "Tanveer uddin",             
+     "Institute": "I.E.T., Bundelkhand University, Jhansi",         
+      "InstituteAcronym": "IET"   
+       },
+       
+       {       
+			"Contributer": "Yadvendra Pratap Singh",              
+      "Institute": "I.E.T., Bundelkhand University, Jhansi",         
+      "InstituteAcronym": "IET"   
+       },
+       
+   ]
+
+}
