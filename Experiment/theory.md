@@ -1,0 +1,5 @@
+
+# **2.Theory**
+
+Staining is an auxiliary technique used in microscopic techniques used to enhance the clarity of the microscopic image. Stains and dyes are widely used in the scientific field to highlight the structure of the biological specimens, cells, tissues etc. The most widely used staining procedure in microbiology is the Gram stain, discovered by the Danish scientist and physician Hans Christian Joachim Gram in 1884. Gram staining is a differential staining technique that differentiates bacteria into two groups: gram-positives(pink) and gram-negatives(violet) . The procedure is based on the ability of microorganisms to retain color of the stains used during the gram stain reaction. Gram-negative bacteria are decolorized by the alcohol, losing the color of the primary stain, purple. Gram-positive bacteria are not decolorized by alcohol and will remain as purple. After decolorization step, a counterstain is used to impart a pink color to the decolorized gram-negative organisms.
+
